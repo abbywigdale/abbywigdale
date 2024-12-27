@@ -1,4 +1,9 @@
-## Hi there 👋
+## I'm Abby 👋
+
+**I'm a fullstack developer with a background in studio art.**  
+<br>
+🖤 My passion lies at the intersection of technology and art. <br>
+🌱 I'm always looking for ways to expand my knowledge in this field.
 
 <!--
 **abbywigdale/abbywigdale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
